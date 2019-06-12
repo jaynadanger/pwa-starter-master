@@ -1,9 +1,9 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "Sunflowers",
+    "short_name": "Sunflowers",
+    "description": "There're sunflowers! And lots of 'em!!",
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa-starter-master",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
